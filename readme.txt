@@ -7,4 +7,4 @@ git@github.com
 id_rsa test
 id_rsa yes
 origin test
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
