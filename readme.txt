@@ -10,3 +10,4 @@ origin test
 Creating a new branch is quick and simple.
 no_ff
 clone test
+gitee
